@@ -1,0 +1,50 @@
+{
+	"storyName": "Darnell",
+	"difficulties": "hard,Erect,flip",
+	"hideFreeplay": false,
+	"weekBackground": "darnelltest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"darnell",
+		"pico-p1",
+		"nene"
+	],
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lit Up",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"2HOT",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Darnell",
+	"hiddenUntilUnlocked": false
+}
