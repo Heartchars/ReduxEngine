@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Darnell.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darnell idle0000" x="0" y="0" width="372" height="472" frameX="0" frameY="-15" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0001" x="374" y="0" width="372" height="472" frameX="0" frameY="-15" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0002" x="374" y="0" width="372" height="472" frameX="0" frameY="-15" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0003" x="748" y="0" width="392" height="473" frameX="-1" frameY="-14" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0004" x="748" y="0" width="392" height="473" frameX="-1" frameY="-14" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0005" x="1142" y="0" width="388" height="481" frameX="-2" frameY="-6" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0006" x="1142" y="0" width="388" height="481" frameX="-2" frameY="-6" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0007" x="1532" y="0" width="385" height="486" frameX="-2" frameY="-1" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0008" x="1532" y="0" width="385" height="486" frameX="-2" frameY="-1" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0009" x="0" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0010" x="0" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0011" x="384" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0012" x="384" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0013" x="768" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+	<SubTexture name="Darnell idle0014" x="768" y="488" width="382" height="487" frameX="-2" frameY="0" frameWidth="393" frameHeight="487"/>
+</TextureAtlas>
